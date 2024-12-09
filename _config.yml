@@ -1,0 +1,44 @@
+# site settings
+title: Kailing Fu
+subtitle: writer and performer
+email: contact@kailingfu.com
+description: Kailing Fu | Writer | Performer
+# baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+# url: # the base hostname & protocol for your site
+# author:
+# street_address: Street
+# city: Nashville
+# state: TN
+# zip_code: 55555
+country: Singapore | UK
+# phone: (716) 555-5555
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+#  GitHub: 
+#  GitLab:
+#  Google-Plus: 
+  Instagram: https://www.instagram.com/kaistermaister
+#  LinkedIn: 
+#  Twitter: 
+#  Facebook:
+#  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
