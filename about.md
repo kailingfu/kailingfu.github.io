@@ -10,4 +10,4 @@ I am a writer and performer based in Singapore. Drawing from my training in Buto
 
 I completed my MA in Performance Making at Goldsmiths, University of London, and BA in Theatre at the National University of Singapore. I was previously an in-house stage manager with a Mandarin theatre company in Singapore. 
 
-You can reach out me at contact[at]kailingfu.com.
+You can reach me at contact[at]kailingfu.com.
