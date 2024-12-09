@@ -2,7 +2,7 @@
 title: Kailing Fu
 subtitle: writer and performer
 email: contact@kailingfu.com
-description: Kailing Fu | Writer | Performer
+description: Writer & Performer
 # baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 # url: # the base hostname & protocol for your site
 # author:
@@ -10,7 +10,7 @@ description: Kailing Fu | Writer | Performer
 # city: Nashville
 # state: TN
 # zip_code: 55555
-country: Singapore | UK
+# country: Singapore | UK
 # phone: (716) 555-5555
 
 # homepage tiles
